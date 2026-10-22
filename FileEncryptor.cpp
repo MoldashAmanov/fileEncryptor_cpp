@@ -1,4 +1,3 @@
-#pragma once
 #include "FileEncryptor.h"
 #include <fstream>
 #include <iostream>
